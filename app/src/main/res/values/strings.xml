@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blade Runner</string>
+    <string name="title">Blade Runner 2049</string>
+    <string name="director">Director:</string>
+    <string name="director_name">Denis Villeneuve</string>
+    <string name="description">Young Blade Runner K\'s discovery of a long-buried secret leads him totrack down former Blade Runner Rick Deckard, who\'s been missing for thirty years.</string>
+    <string name="contDescriptionBanner">Movie banner</string>
+    <string name="contDescriptionPoster">Movie poster</string>
+    <string name="actor_1">Harrison Ford</string>
+    <string name="actor_2">Ryan Gosling</string>
+    <string name="actor_3">Ana de Armas</string>
+    <string name="actor_4">Dave Bautista</string>
+    <string name="actors_label">Actors</string>
+    <string name="like">like</string>
+    <string name="watch">watch</string>
+    <string name="share">share</string>
+</resources>
